@@ -1,7 +1,7 @@
 # Basic Circuits
 LaunchLab Fresher Training (LFT) module for bsic circuit theory, design and simulation.
 
-**PREREQ/ASSESSMENT** : Check your circuit proficiency: [[RC circuits](docs/RC-Circuit-Assesment.pdf)], [[Electrical Circuits](Electrical-Circuits-Assesment.pdf)].
+**PREREQ/ASSESSMENT** : Check your circuit proficiency: [[RC circuits](docs/RC-Circuit-Assesment.pdf)], [[Electrical Circuits](docs/Electrical-Circuits-Assesment.pdf)].
 
 
 **RESOURCES**
